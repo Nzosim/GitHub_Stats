@@ -56,10 +56,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzosim&" alt="nzosim" /></p>
 
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
 <table>
   <td align="center">
     <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
