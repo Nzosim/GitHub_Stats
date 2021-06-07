@@ -1,6 +1,6 @@
 ### Hi there, I'm Enzo - aka Nzosim 👋
 
-## I'm a computer science student!!
+## I'm a computer science student !!
 
 - 🔭 Vscode fan
 - 🌱 I’m currently learning python
@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ioqfgidsc8mcv6g1sfyqfgu0t)
 
 ### Connect with me:
 
