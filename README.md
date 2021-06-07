@@ -1,4 +1,4 @@
-### Hi there, I'm Enzo - aka Nzosim 👋
+### Hi there, I'm Enzo - aka [Nzosim][discord] 👋
 
 ## I'm a computer science student !!
 
