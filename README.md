@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **discordjs**
 
-- 📫 How to reach me **Nzosim#1111 on discord**
+- 📫 How to reach me : **Nzosim#1111 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
