@@ -56,12 +56,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzosim&" alt="nzosim" /></p>
 
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+
