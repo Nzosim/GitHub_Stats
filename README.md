@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on **mobile application**
 
-- 🌱 I’m currently learning **kotlin**
-
 - 👯 I’m looking to collaborate on **javascript project**
 
-- 💬 Ask me about **discordjs**
+- 🌱 I’m currently learning **kotlin**
 
 - 📫 How to reach me **: Nzosim#0379 on discord**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
