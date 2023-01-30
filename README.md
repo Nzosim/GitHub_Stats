@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=ff0000&style=plastic" alt="nzosim" /> </p>
 
-- 🔭 I’m currently working on **mobile application**
+- 🔭 I’m currently working on **Jooboa**
 
-- 👯 I’m looking to collaborate on **javascript project**
+- 👯 I’m looking to collaborate on **projects**
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **TypeScript, React, NextJs, Tailwind**
 
 - 📫 How to reach me **: Nzosim#0379 on discord**
 <p align="left">
